@@ -2,3 +2,5 @@
 Olá, esse é meu README de exemplo
 
 Adicionei o git status aqui
+
+Adicionei o commit
